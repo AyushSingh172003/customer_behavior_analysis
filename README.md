@@ -137,3 +137,43 @@ This repository contains:
 ---
 
 ## Repository Structure
+
+customer-shopping-behavior-analysis
+│
+├── data
+│ └── customer_shopping_behavior.csv
+│
+├── python
+│ └── data_cleaning_analysis.ipynb
+│
+├── sql
+│ └── business_queries.sql
+│
+├── powerbi
+│ └── customer_behavior_dashboard.pbix
+│
+├── presentation
+│ └── gamma_presentation.pptx
+│
+├── report
+│ └── project_report.pdf
+│
+└── README.md
+
+
+---
+
+## Future Improvements
+
+Possible enhancements for this project include:
+
+- Predictive modeling for customer churn
+- Customer lifetime value analysis
+- Real-time sales dashboards
+- Advanced cohort and retention analysis
+
+---
+
+## Author
+
+**Ayush Singh**
