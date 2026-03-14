@@ -138,30 +138,18 @@ This repository contains:
 
 ## Repository Structure
 
-customer-shopping-behavior-analysis
+```
+Customer-Shopping-Behavior-Analysis/
 │
-├── data
-│ └── customer_shopping_behavior.csv
-│
-├── python
-│ └── data_cleaning_analysis.ipynb
-│
-├── sql
-│ └── business_queries.sql
-│
-├── powerbi
-│ └── customer_behavior_dashboard.pbix
-│
-├── presentation
-│ └── gamma_presentation.pptx
-│
-├── report
-│ └── project_report.pdf
-│
-└── README.md
-
-
----
+├── customer_shopping_behavior.csv        # Raw dataset
+├── Project1.ipynb                        # Python data cleaning and exploration
+├── Sql Querries.sql                      # SQL queries used for business analysis
+├── Customer Behavior Dashboard.pbix      # Power BI dashboard file
+├── Customer Shopping Behavior Analysis Report.pdf   # Detailed project report
+├── Customer-Shopping-Behavior-Analysis.pptx         # Gamma AI presentation
+├── Business Problem Document.pdf         # Business problem statement
+└── README.md                             # Project documentation
+```
 
 ## Future Improvements
 
